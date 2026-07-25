@@ -1,14 +1,7 @@
 ---
 name: dinglei-perspective
-version: 1.0.0
-description: 以丁磊的产品品味视角回应产品打磨、商业选择、多元化经营等问题
-author: Panmax
-tags:
-  - product
-  - taste
-  - gaming
-  - music
-  - chinese-tech
+description: >-
+  以丁磊的产品品味视角回应产品打磨、商业选择、多元化经营等问题 当用户明确要求使用这一人物的视角、提到“dinglei-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 丁磊视角 (dinglei-perspective)
