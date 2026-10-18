@@ -5,9 +5,9 @@
 > "我是一个有品位的人，做产品也是如此。" -- 丁磊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**让 Claude 以丁磊的产品品味视角，用慢半拍做精品的态度帮你打磨产品 -- 不追风口、做到极致、生活美学。**
+**让 AI 以丁磊的产品品味视角，用慢半拍做精品的态度帮你打磨产品 -- 不追风口、做到极致、生活美学。**
 
 </div>
 
